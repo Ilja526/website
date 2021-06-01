@@ -1,0 +1,43 @@
+.Log {
+    line-height: 10px;
+    height: 20px;
+    width: 30px;   
+    font-size: 10px;
+    display: inline-block;
+    position: relative;
+    left: 28%;
+    top: 5.7%;
+    z-index: 1;
+    text-decoration: none;
+    text-align: left;
+    color: black;
+    position: absolute;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    line-height: 70px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+}
+.Sign {
+    line-height: 10px;
+    height: 100%;   
+    font-size: 14px;
+    display: inline-block;
+    position: relative;
+    left: 32%;
+    top: 5.7%;
+    z-index: 1;
+    text-decoration: none;
+    text-align: left;
+    color: black;
+    position: absolute;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    line-height: 70px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+}
