@@ -34,32 +34,6 @@ input:focus {
     transform: translateX(15px);
     width: 385px;
 }
-.SIGNUP {
-    text-decoration: none;
-    text-align: center;
-    padding: 10px;
-    height: 40px;
-    width: 100px;  
-    left: 900px; 
-    top: 325px;
-    font-size: 30px;
-    color: black;
-    position: absolute;
-    font-style: normal;
-}
-.LOGIN {
-    text-decoration: none;
-    text-align: center;
-    padding: 10px;
-    height: 40px;
-    width: 100px;  
-    left: 900px; 
-    top: 270px;
-    font-size: 35px;
-    color: black;
-    position: absolute;
-    font-style: normal;
-}
 .FG {
     text-decoration: none;
     padding: 10px;
