@@ -13,7 +13,7 @@ form {
     box-shadow: 2px 2px 4px #000;
 }
 .group {
-    margin: 10px;
+    margin: 20px;
     padding: 5px;
 }
 label {
@@ -39,10 +39,9 @@ input:focus {
     text-align: center;
     padding: 10px;
     height: 40px;
-    width: 70px;  
+    width: 100px;  
     left: 900px; 
-    top: 270px;
-    font-size: 35px;
+    font-size: 40px;
     color: black;
     position: absolute;
     font-style: normal;
