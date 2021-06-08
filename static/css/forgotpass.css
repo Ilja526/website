@@ -22,7 +22,7 @@ label {
 }
 input {
     margin-top: 10px;
-    height: 40px;
+    height: 60px;
     width: 400px;
     border-radius: 10px/10px;    
     font-size: 18px;
@@ -36,13 +36,14 @@ input:focus {
 }
 .ForPass {
     text-decoration: none;
+    text-align: center;
     padding: 10px;
     height: 40px;
-    width: 1000px;  
-    left: 453px; 
-    top: 410px;
-    font-size: 17px;
+    width: 100px;  
+    left: 900px; 
+    top: 270px;
+    font-size: 35px;
     color: black;
-    position: absolute; 
+    position: absolute;
     font-style: normal;
 }
